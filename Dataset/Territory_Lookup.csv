@@ -1,0 +1,605 @@
+Territory_ID,Country,City,State,Postal Code,Region
+T_00,United States,Aberdeen,South Dakota,57103,Central
+T_01,United States,Abilene,Texas,76106,Central
+T_02,United States,Akron,Ohio,43229,East
+T_03,United States,Albuquerque,New Mexico,88220,West
+T_04,United States,Alexandria,Virginia,22153,South
+T_05,United States,Allen,Texas,76106,Central
+T_06,United States,Allentown,Pennsylvania,19140,East
+T_07,United States,Altoona,Pennsylvania,19140,East
+T_08,United States,Amarillo,Texas,76106,Central
+T_09,United States,Anaheim,California,90036,West
+T_10,United States,Andover,Massachusetts,1852,East
+T_11,United States,Ann Arbor,Michigan,48185,Central
+T_12,United States,Antioch,California,90036,West
+T_13,United States,Apopka,Florida,33311,South
+T_14,United States,Apple Valley,California,90036,West
+T_15,United States,Apple Valley,Minnesota,55122,Central
+T_16,United States,Appleton,Wisconsin,53711,Central
+T_17,United States,Arlington,Texas,76106,Central
+T_18,United States,Arlington,Virginia,22153,South
+T_19,United States,Arlington Heights,Illinois,60540,Central
+T_20,United States,Arvada,Colorado,80013,West
+T_21,United States,Asheville,North Carolina,28027,South
+T_22,United States,Athens,Georgia,31907,South
+T_23,United States,Atlanta,Georgia,31907,South
+T_24,United States,Atlantic City,New Jersey,7090,East
+T_25,United States,Auburn,Alabama,35601,South
+T_26,United States,Auburn,New York,10024,East
+T_27,United States,Auburn,Washington,98103,West
+T_28,United States,Aurora,Colorado,80013,West
+T_29,United States,Aurora,Illinois,60540,Central
+T_30,United States,Austin,Texas,76106,Central
+T_31,United States,Avondale,Arizona,85234,West
+T_32,United States,Bakersfield,California,90036,West
+T_33,United States,Baltimore,Maryland,21044,East
+T_34,United States,Bangor,Maine,4401,East
+T_35,United States,Bartlett,Tennessee,38109,South
+T_36,United States,Bayonne,New Jersey,7090,East
+T_37,United States,Baytown,Texas,76106,Central
+T_38,United States,Beaumont,Texas,76106,Central
+T_39,United States,Bedford,Texas,76106,Central
+T_40,United States,Belleville,New Jersey,7090,East
+T_41,United States,Bellevue,Washington,98103,West
+T_42,United States,Bellingham,Washington,98103,West
+T_43,United States,Bethlehem,Pennsylvania,19140,East
+T_44,United States,Beverly,Massachusetts,1852,East
+T_45,United States,Billings,Montana,59405,West
+T_46,United States,Bloomington,Illinois,60540,Central
+T_47,United States,Bloomington,Indiana,47150,Central
+T_48,United States,Boca Raton,Florida,33311,South
+T_49,United States,Boise,Idaho,83642,West
+T_50,United States,Bolingbrook,Illinois,60540,Central
+T_51,United States,Bossier City,Louisiana,71203,South
+T_52,United States,Bowling Green,Kentucky,42420,South
+T_53,United States,Bowling Green,Ohio,43229,East
+T_54,United States,Boynton Beach,Florida,33311,South
+T_55,United States,Bozeman,Montana,59405,West
+T_56,United States,Brentwood,California,90036,West
+T_57,United States,Bridgeton,New Jersey,7090,East
+T_58,United States,Bristol,Connecticut,6824,East
+T_59,United States,Bristol,Tennessee,38109,South
+T_60,United States,Broken Arrow,Oklahoma,73034,Central
+T_61,United States,Broomfield,Colorado,80013,West
+T_62,United States,Brownsville,Texas,76106,Central
+T_63,United States,Bryan,Texas,76106,Central
+T_64,United States,Buffalo,New York,10024,East
+T_65,United States,Buffalo Grove,Illinois,60540,Central
+T_66,United States,Bullhead City,Arizona,85234,West
+T_67,United States,Burbank,California,90036,West
+T_68,United States,Burlington,Iowa,50322,Central
+T_69,United States,Burlington,North Carolina,28027,South
+T_70,United States,Burlington,Vermont,5408,East
+T_71,United States,Caldwell,Idaho,83642,West
+T_72,United States,Camarillo,California,90036,West
+T_73,United States,Cambridge,Massachusetts,1852,East
+T_74,United States,Canton,Michigan,48185,Central
+T_75,United States,Carlsbad,New Mexico,88220,West
+T_76,United States,Carol Stream,Illinois,60540,Central
+T_77,United States,Carrollton,Texas,76106,Central
+T_78,United States,Cary,North Carolina,28027,South
+T_79,United States,Cedar Hill,Texas,76106,Central
+T_80,United States,Cedar Rapids,Iowa,50322,Central
+T_81,United States,Champaign,Illinois,60540,Central
+T_82,United States,Chandler,Arizona,85234,West
+T_83,United States,Chapel Hill,North Carolina,28027,South
+T_84,United States,Charlotte,North Carolina,28027,South
+T_85,United States,Charlottesville,Virginia,22153,South
+T_86,United States,Chattanooga,Tennessee,38109,South
+T_87,United States,Chesapeake,Virginia,22153,South
+T_88,United States,Chester,Pennsylvania,19140,East
+T_89,United States,Cheyenne,Wyoming,82001,West
+T_90,United States,Chicago,Illinois,60540,Central
+T_91,United States,Chico,California,90036,West
+T_92,United States,Chula Vista,California,90036,West
+T_93,United States,Cincinnati,Ohio,43229,East
+T_94,United States,Citrus Heights,California,90036,West
+T_95,United States,Clarksville,Tennessee,38109,South
+T_96,United States,Cleveland,Ohio,43229,East
+T_97,United States,Clifton,New Jersey,7090,East
+T_98,United States,Clinton,Maryland,21044,East
+T_99,United States,Clovis,New Mexico,88220,West
+T_100,United States,Coachella,California,90036,West
+T_101,United States,College Station,Texas,76106,Central
+T_102,United States,Colorado Springs,Colorado,80013,West
+T_103,United States,Columbia,Maryland,21044,East
+T_104,United States,Columbia,Missouri,64055,Central
+T_105,United States,Columbia,South Carolina,29203,South
+T_106,United States,Columbia,Tennessee,38109,South
+T_107,United States,Columbus,Georgia,31907,South
+T_108,United States,Columbus,Indiana,47150,Central
+T_109,United States,Columbus,Ohio,43229,East
+T_110,United States,Commerce City,Colorado,80013,West
+T_111,United States,Concord,California,90036,West
+T_112,United States,Concord,New Hampshire,3301,East
+T_113,United States,Concord,North Carolina,28027,South
+T_114,United States,Conroe,Texas,76106,Central
+T_115,United States,Conway,Arkansas,72701,South
+T_116,United States,Coon Rapids,Minnesota,55122,Central
+T_117,United States,Coppell,Texas,76106,Central
+T_118,United States,Coral Gables,Florida,33311,South
+T_119,United States,Coral Springs,Florida,33311,South
+T_120,United States,Corpus Christi,Texas,76106,Central
+T_121,United States,Costa Mesa,California,90036,West
+T_122,United States,Cottage Grove,Minnesota,55122,Central
+T_123,United States,Covington,Washington,98103,West
+T_124,United States,Cranston,Rhode Island,2886,East
+T_125,United States,Cuyahoga Falls,Ohio,43229,East
+T_126,United States,Dallas,Texas,76106,Central
+T_127,United States,Danbury,Connecticut,6824,East
+T_128,United States,Danville,California,90036,West
+T_129,United States,Danville,Illinois,60540,Central
+T_130,United States,Davis,California,90036,West
+T_131,United States,Daytona Beach,Florida,33311,South
+T_132,United States,Dearborn,Michigan,48185,Central
+T_133,United States,Dearborn Heights,Michigan,48185,Central
+T_134,United States,Decatur,Alabama,35601,South
+T_135,United States,Decatur,Illinois,60540,Central
+T_136,United States,Deer Park,Texas,76106,Central
+T_137,United States,Delray Beach,Florida,33311,South
+T_138,United States,Deltona,Florida,33311,South
+T_139,United States,Denver,Colorado,80013,West
+T_140,United States,Des Moines,Iowa,50322,Central
+T_141,United States,Des Moines,Washington,98103,West
+T_142,United States,Des Plaines,Illinois,60540,Central
+T_143,United States,Detroit,Michigan,48185,Central
+T_144,United States,Dover,Delaware,19901,East
+T_145,United States,Dover,New Hampshire,3301,East
+T_146,United States,Draper,Utah,84084,West
+T_147,United States,Dublin,California,90036,West
+T_148,United States,Dublin,Ohio,43229,East
+T_149,United States,Dubuque,Iowa,50322,Central
+T_150,United States,Durham,North Carolina,28027,South
+T_151,United States,Eagan,Minnesota,55122,Central
+T_152,United States,East Orange,New Jersey,7090,East
+T_153,United States,East Point,Georgia,31907,South
+T_154,United States,Eau Claire,Wisconsin,53711,Central
+T_155,United States,Edinburg,Texas,76106,Central
+T_156,United States,Edmond,Oklahoma,73034,Central
+T_157,United States,Edmonds,Washington,98103,West
+T_158,United States,El Cajon,California,90036,West
+T_159,United States,El Paso,Texas,76106,Central
+T_160,United States,Elkhart,Indiana,47150,Central
+T_161,United States,Elmhurst,Illinois,60540,Central
+T_162,United States,Elyria,Ohio,43229,East
+T_163,United States,Encinitas,California,90036,West
+T_164,United States,Englewood,Colorado,80013,West
+T_165,United States,Escondido,California,90036,West
+T_166,United States,Eugene,Oregon,97206,West
+T_167,United States,Evanston,Illinois,60540,Central
+T_168,United States,Everett,Massachusetts,1852,East
+T_169,United States,Everett,Washington,98103,West
+T_170,United States,Fairfield,California,90036,West
+T_171,United States,Fairfield,Connecticut,6824,East
+T_172,United States,Fairfield,Ohio,43229,East
+T_173,United States,Fargo,North Dakota,58103,Central
+T_174,United States,Farmington,New Mexico,88220,West
+T_175,United States,Fayetteville,Arkansas,72701,South
+T_176,United States,Fayetteville,North Carolina,28027,South
+T_177,United States,Florence,Alabama,35601,South
+T_178,United States,Florence,Kentucky,42420,South
+T_179,United States,Florence,South Carolina,29203,South
+T_180,United States,Fort Collins,Colorado,80013,West
+T_181,United States,Fort Lauderdale,Florida,33311,South
+T_182,United States,Fort Worth,Texas,76106,Central
+T_183,United States,Frankfort,Illinois,60540,Central
+T_184,United States,Franklin,Massachusetts,1852,East
+T_185,United States,Franklin,Tennessee,38109,South
+T_186,United States,Franklin,Wisconsin,53711,Central
+T_187,United States,Freeport,Illinois,60540,Central
+T_188,United States,Freeport,New York,10024,East
+T_189,United States,Fremont,Nebraska,68025,Central
+T_190,United States,Fresno,California,90036,West
+T_191,United States,Frisco,Texas,76106,Central
+T_192,United States,Gaithersburg,Maryland,21044,East
+T_193,United States,Garden City,Kansas,66062,Central
+T_194,United States,Garland,Texas,76106,Central
+T_195,United States,Gastonia,North Carolina,28027,South
+T_196,United States,Georgetown,Kentucky,42420,South
+T_197,United States,Gilbert,Arizona,85234,West
+T_198,United States,Gladstone,Missouri,64055,Central
+T_199,United States,Glendale,Arizona,85234,West
+T_200,United States,Glenview,Illinois,60540,Central
+T_201,United States,Goldsboro,North Carolina,28027,South
+T_202,United States,Grand Island,Nebraska,68025,Central
+T_203,United States,Grand Prairie,Texas,76106,Central
+T_204,United States,Grand Rapids,Michigan,48185,Central
+T_205,United States,Grapevine,Texas,76106,Central
+T_206,United States,Great Falls,Montana,59405,West
+T_207,United States,Greeley,Colorado,80013,West
+T_208,United States,Green Bay,Wisconsin,53711,Central
+T_209,United States,Greensboro,North Carolina,28027,South
+T_210,United States,Greenville,North Carolina,28027,South
+T_211,United States,Greenwood,Indiana,47150,Central
+T_212,United States,Gresham,Oregon,97206,West
+T_213,United States,Grove City,Ohio,43229,East
+T_214,United States,Gulfport,Mississippi,39212,South
+T_215,United States,Hackensack,New Jersey,7090,East
+T_216,United States,Hagerstown,Maryland,21044,East
+T_217,United States,Haltom City,Texas,76106,Central
+T_218,United States,Hamilton,Ohio,43229,East
+T_219,United States,Hampton,Virginia,22153,South
+T_220,United States,Harlingen,Texas,76106,Central
+T_221,United States,Harrisonburg,Virginia,22153,South
+T_222,United States,Hattiesburg,Mississippi,39212,South
+T_223,United States,Helena,Montana,59405,West
+T_224,United States,Hempstead,New York,10024,East
+T_225,United States,Henderson,Kentucky,42420,South
+T_226,United States,Henderson,Nevada,89115,West
+T_227,United States,Hendersonville,Tennessee,38109,South
+T_228,United States,Hesperia,California,90036,West
+T_229,United States,Hialeah,Florida,33311,South
+T_230,United States,Hickory,North Carolina,28027,South
+T_231,United States,Highland Park,Illinois,60540,Central
+T_232,United States,Hillsboro,Oregon,97206,West
+T_233,United States,Holland,Michigan,48185,Central
+T_234,United States,Hollywood,Florida,33311,South
+T_235,United States,Holyoke,Massachusetts,1852,East
+T_236,United States,Homestead,Florida,33311,South
+T_237,United States,Hoover,Alabama,35601,South
+T_238,United States,Hot Springs,Arkansas,72701,South
+T_239,United States,Houston,Texas,76106,Central
+T_240,United States,Huntington Beach,California,90036,West
+T_241,United States,Huntsville,Alabama,35601,South
+T_242,United States,Huntsville,Texas,76106,Central
+T_243,United States,Independence,Missouri,64055,Central
+T_244,United States,Indianapolis,Indiana,47150,Central
+T_245,United States,Inglewood,California,90036,West
+T_246,United States,Iowa City,Iowa,50322,Central
+T_247,United States,Irving,Texas,76106,Central
+T_248,United States,Jackson,Michigan,48185,Central
+T_249,United States,Jackson,Mississippi,39212,South
+T_250,United States,Jackson,Tennessee,38109,South
+T_251,United States,Jacksonville,Florida,33311,South
+T_252,United States,Jacksonville,North Carolina,28027,South
+T_253,United States,Jamestown,New York,10024,East
+T_254,United States,Jefferson City,Missouri,64055,Central
+T_255,United States,Johnson City,Tennessee,38109,South
+T_256,United States,Jonesboro,Arkansas,72701,South
+T_257,United States,Jupiter,Florida,33311,South
+T_258,United States,Keller,Texas,76106,Central
+T_259,United States,Kenner,Louisiana,71203,South
+T_260,United States,Kenosha,Wisconsin,53711,Central
+T_261,United States,Kent,Ohio,43229,East
+T_262,United States,Kent,Washington,98103,West
+T_263,United States,Kirkwood,Missouri,64055,Central
+T_264,United States,Kissimmee,Florida,33311,South
+T_265,United States,Knoxville,Tennessee,38109,South
+T_266,United States,La Crosse,Wisconsin,53711,Central
+T_267,United States,La Mesa,California,90036,West
+T_268,United States,La Porte,Indiana,47150,Central
+T_269,United States,La Porte,Texas,76106,Central
+T_270,United States,La Quinta,California,90036,West
+T_271,United States,Lafayette,Indiana,47150,Central
+T_272,United States,Lafayette,Louisiana,71203,South
+T_273,United States,Laguna Niguel,California,90036,West
+T_274,United States,Lake Charles,Louisiana,71203,South
+T_275,United States,Lake Elsinore,California,90036,West
+T_276,United States,Lake Forest,California,90036,West
+T_277,United States,Lakeland,Florida,33311,South
+T_278,United States,Lakeville,Minnesota,55122,Central
+T_279,United States,Lakewood,California,90036,West
+T_280,United States,Lakewood,New Jersey,7090,East
+T_281,United States,Lakewood,Ohio,43229,East
+T_282,United States,Lancaster,California,90036,West
+T_283,United States,Lancaster,Ohio,43229,East
+T_284,United States,Lancaster,Pennsylvania,19140,East
+T_285,United States,Lansing,Michigan,48185,Central
+T_286,United States,Laredo,Texas,76106,Central
+T_287,United States,Las Cruces,New Mexico,88220,West
+T_288,United States,Las Vegas,Nevada,89115,West
+T_289,United States,Laurel,Maryland,21044,East
+T_290,United States,Lawrence,Indiana,47150,Central
+T_291,United States,Lawrence,Massachusetts,1852,East
+T_292,United States,Lawton,Oklahoma,73034,Central
+T_293,United States,Layton,Utah,84084,West
+T_294,United States,League City,Texas,76106,Central
+T_295,United States,Lebanon,Tennessee,38109,South
+T_296,United States,Lehi,Utah,84084,West
+T_297,United States,Leominster,Massachusetts,1852,East
+T_298,United States,Lewiston,Idaho,83642,West
+T_299,United States,Lewiston,Maine,4401,East
+T_300,United States,Lincoln Park,Michigan,48185,Central
+T_301,United States,Linden,New Jersey,7090,East
+T_302,United States,Lindenhurst,New York,10024,East
+T_303,United States,Little Rock,Arkansas,72701,South
+T_304,United States,Littleton,Colorado,80013,West
+T_305,United States,Lodi,California,90036,West
+T_306,United States,Logan,Utah,84084,West
+T_307,United States,Long Beach,California,90036,West
+T_308,United States,Long Beach,New York,10024,East
+T_309,United States,Longmont,Colorado,80013,West
+T_310,United States,Longview,Washington,98103,West
+T_311,United States,Lorain,Ohio,43229,East
+T_312,United States,Los Angeles,California,90036,West
+T_313,United States,Louisville,Colorado,80013,West
+T_314,United States,Louisville,Kentucky,42420,South
+T_315,United States,Loveland,Colorado,80013,West
+T_316,United States,Lowell,Massachusetts,1852,East
+T_317,United States,Lubbock,Texas,76106,Central
+T_318,United States,Macon,Georgia,31907,South
+T_319,United States,Madison,Wisconsin,53711,Central
+T_320,United States,Malden,Massachusetts,1852,East
+T_321,United States,Manchester,Connecticut,6824,East
+T_322,United States,Manhattan,Kansas,66062,Central
+T_323,United States,Mansfield,Texas,76106,Central
+T_324,United States,Manteca,California,90036,West
+T_325,United States,Maple Grove,Minnesota,55122,Central
+T_326,United States,Margate,Florida,33311,South
+T_327,United States,Marietta,Georgia,31907,South
+T_328,United States,Marion,Iowa,50322,Central
+T_329,United States,Marion,Ohio,43229,East
+T_330,United States,Marlborough,Massachusetts,1852,East
+T_331,United States,Marysville,Washington,98103,West
+T_332,United States,Mason,Ohio,43229,East
+T_333,United States,Mcallen,Texas,76106,Central
+T_334,United States,Medford,Oregon,97206,West
+T_335,United States,Medina,Ohio,43229,East
+T_336,United States,Melbourne,Florida,33311,South
+T_337,United States,Memphis,Tennessee,38109,South
+T_338,United States,Mentor,Ohio,43229,East
+T_339,United States,Meriden,Connecticut,6824,East
+T_340,United States,Meridian,Idaho,83642,West
+T_341,United States,Mesa,Arizona,85234,West
+T_342,United States,Mesquite,Texas,76106,Central
+T_343,United States,Miami,Florida,33311,South
+T_344,United States,Middletown,Connecticut,6824,East
+T_345,United States,Midland,Michigan,48185,Central
+T_346,United States,Milford,Connecticut,6824,East
+T_347,United States,Milwaukee,Wisconsin,53711,Central
+T_348,United States,Minneapolis,Minnesota,55122,Central
+T_349,United States,Miramar,Florida,33311,South
+T_350,United States,Mishawaka,Indiana,47150,Central
+T_351,United States,Mission Viejo,California,90036,West
+T_352,United States,Missoula,Montana,59405,West
+T_353,United States,Missouri City,Texas,76106,Central
+T_354,United States,Mobile,Alabama,35601,South
+T_355,United States,Modesto,California,90036,West
+T_356,United States,Monroe,Louisiana,71203,South
+T_357,United States,Monroe,North Carolina,28027,South
+T_358,United States,Montebello,California,90036,West
+T_359,United States,Montgomery,Alabama,35601,South
+T_360,United States,Moorhead,Minnesota,55122,Central
+T_361,United States,Moreno Valley,California,90036,West
+T_362,United States,Morgan Hill,California,90036,West
+T_363,United States,Morristown,New Jersey,7090,East
+T_364,United States,Mount Pleasant,Michigan,48185,Central
+T_365,United States,Mount Pleasant,South Carolina,29203,South
+T_366,United States,Mount Vernon,New York,10024,East
+T_367,United States,Murfreesboro,Tennessee,38109,South
+T_368,United States,Murray,Kentucky,42420,South
+T_369,United States,Murray,Utah,84084,West
+T_370,United States,Murrieta,California,90036,West
+T_371,United States,Muskogee,Oklahoma,73034,Central
+T_372,United States,Naperville,Illinois,60540,Central
+T_373,United States,Nashua,New Hampshire,3301,East
+T_374,United States,Nashville,Tennessee,38109,South
+T_375,United States,New Albany,Indiana,47150,Central
+T_376,United States,New Bedford,Massachusetts,1852,East
+T_377,United States,New Brunswick,New Jersey,7090,East
+T_378,United States,New Castle,Indiana,47150,Central
+T_379,United States,New Rochelle,New York,10024,East
+T_380,United States,New York City,New York,10024,East
+T_381,United States,Newark,Delaware,19901,East
+T_382,United States,Newark,Ohio,43229,East
+T_383,United States,Newport News,Virginia,22153,South
+T_384,United States,Niagara Falls,New York,10024,East
+T_385,United States,Noblesville,Indiana,47150,Central
+T_386,United States,Norfolk,Nebraska,68025,Central
+T_387,United States,Normal,Illinois,60540,Central
+T_388,United States,Norman,Oklahoma,73034,Central
+T_389,United States,North Charleston,South Carolina,29203,South
+T_390,United States,North Las Vegas,Nevada,89115,West
+T_391,United States,North Miami,Florida,33311,South
+T_392,United States,Norwich,Connecticut,6824,East
+T_393,United States,Oak Park,Illinois,60540,Central
+T_394,United States,Oak Park,Michigan,48185,Central
+T_395,United States,Oakland,California,90036,West
+T_396,United States,Oceanside,California,90036,West
+T_397,United States,Oceanside,New York,10024,East
+T_398,United States,Odessa,Texas,76106,Central
+T_399,United States,Oklahoma City,Oklahoma,73034,Central
+T_400,United States,Olathe,Kansas,66062,Central
+T_401,United States,Olympia,Washington,98103,West
+T_402,United States,Omaha,Nebraska,68025,Central
+T_403,United States,Ontario,California,90036,West
+T_404,United States,Orange,New Jersey,7090,East
+T_405,United States,Orem,Utah,84084,West
+T_406,United States,Orland Park,Illinois,60540,Central
+T_407,United States,Orlando,Florida,33311,South
+T_408,United States,Ormond Beach,Florida,33311,South
+T_409,United States,Oswego,Illinois,60540,Central
+T_410,United States,Overland Park,Kansas,66062,Central
+T_411,United States,Owensboro,Kentucky,42420,South
+T_412,United States,Oxnard,California,90036,West
+T_413,United States,Palatine,Illinois,60540,Central
+T_414,United States,Palm Coast,Florida,33311,South
+T_415,United States,Park Ridge,Illinois,60540,Central
+T_416,United States,Parker,Colorado,80013,West
+T_417,United States,Parma,Ohio,43229,East
+T_418,United States,Pasadena,California,90036,West
+T_419,United States,Pasadena,Texas,76106,Central
+T_420,United States,Pasco,Washington,98103,West
+T_421,United States,Passaic,New Jersey,7090,East
+T_422,United States,Paterson,New Jersey,7090,East
+T_423,United States,Pearland,Texas,76106,Central
+T_424,United States,Pembroke Pines,Florida,33311,South
+T_425,United States,Pensacola,Florida,33311,South
+T_426,United States,Peoria,Arizona,85234,West
+T_427,United States,Peoria,Illinois,60540,Central
+T_428,United States,Perth Amboy,New Jersey,7090,East
+T_429,United States,Pharr,Texas,76106,Central
+T_430,United States,Philadelphia,Pennsylvania,19140,East
+T_431,United States,Phoenix,Arizona,85234,West
+T_432,United States,Pico Rivera,California,90036,West
+T_433,United States,Pine Bluff,Arkansas,72701,South
+T_434,United States,Plainfield,New Jersey,7090,East
+T_435,United States,Plano,Texas,76106,Central
+T_436,United States,Plantation,Florida,33311,South
+T_437,United States,Pleasant Grove,Utah,84084,West
+T_438,United States,Pocatello,Idaho,83642,West
+T_439,United States,Pomona,California,90036,West
+T_440,United States,Pompano Beach,Florida,33311,South
+T_441,United States,Port Arthur,Texas,76106,Central
+T_442,United States,Port Orange,Florida,33311,South
+T_443,United States,Port Saint Lucie,Florida,33311,South
+T_444,United States,Portage,Indiana,47150,Central
+T_445,United States,Portland,Oregon,97206,West
+T_446,United States,Providence,Rhode Island,2886,East
+T_447,United States,Provo,Utah,84084,West
+T_448,United States,Pueblo,Colorado,80013,West
+T_449,United States,Quincy,Illinois,60540,Central
+T_450,United States,Quincy,Massachusetts,1852,East
+T_451,United States,Raleigh,North Carolina,28027,South
+T_452,United States,Rancho Cucamonga,California,90036,West
+T_453,United States,Rapid City,South Dakota,57103,Central
+T_454,United States,Reading,Pennsylvania,19140,East
+T_455,United States,Redding,California,90036,West
+T_456,United States,Redlands,California,90036,West
+T_457,United States,Redmond,Oregon,97206,West
+T_458,United States,Redmond,Washington,98103,West
+T_459,United States,Redondo Beach,California,90036,West
+T_460,United States,Redwood City,California,90036,West
+T_461,United States,Reno,Nevada,89115,West
+T_462,United States,Renton,Washington,98103,West
+T_463,United States,Revere,Massachusetts,1852,East
+T_464,United States,Richardson,Texas,76106,Central
+T_465,United States,Richmond,Indiana,47150,Central
+T_466,United States,Richmond,Kentucky,42420,South
+T_467,United States,Richmond,Virginia,22153,South
+T_468,United States,Rio Rancho,New Mexico,88220,West
+T_469,United States,Riverside,California,90036,West
+T_470,United States,Rochester,Minnesota,55122,Central
+T_471,United States,Rochester,New York,10024,East
+T_472,United States,Rochester Hills,Michigan,48185,Central
+T_473,United States,Rock Hill,South Carolina,29203,South
+T_474,United States,Rockford,Illinois,60540,Central
+T_475,United States,Rockville,Maryland,21044,East
+T_476,United States,Rogers,Arkansas,72701,South
+T_477,United States,Rome,New York,10024,East
+T_478,United States,Romeoville,Illinois,60540,Central
+T_479,United States,Roseville,California,90036,West
+T_480,United States,Roseville,Michigan,48185,Central
+T_481,United States,Roseville,Minnesota,55122,Central
+T_482,United States,Roswell,Georgia,31907,South
+T_483,United States,Round Rock,Texas,76106,Central
+T_484,United States,Royal Oak,Michigan,48185,Central
+T_485,United States,Sacramento,California,90036,West
+T_486,United States,Saginaw,Michigan,48185,Central
+T_487,United States,Saint Charles,Illinois,60540,Central
+T_488,United States,Saint Charles,Missouri,64055,Central
+T_489,United States,Saint Cloud,Minnesota,55122,Central
+T_490,United States,Saint Louis,Missouri,64055,Central
+T_491,United States,Saint Paul,Minnesota,55122,Central
+T_492,United States,Saint Peters,Missouri,64055,Central
+T_493,United States,Saint Petersburg,Florida,33311,South
+T_494,United States,Salem,Oregon,97206,West
+T_495,United States,Salem,Virginia,22153,South
+T_496,United States,Salinas,California,90036,West
+T_497,United States,Salt Lake City,Utah,84084,West
+T_498,United States,San Angelo,Texas,76106,Central
+T_499,United States,San Antonio,Texas,76106,Central
+T_500,United States,San Bernardino,California,90036,West
+T_501,United States,San Clemente,California,90036,West
+T_502,United States,San Diego,California,90036,West
+T_503,United States,San Francisco,California,90036,West
+T_504,United States,San Gabriel,California,90036,West
+T_505,United States,San Jose,California,90036,West
+T_506,United States,San Luis Obispo,California,90036,West
+T_507,United States,San Marcos,Texas,76106,Central
+T_508,United States,San Mateo,California,90036,West
+T_509,United States,Sandy Springs,Georgia,31907,South
+T_510,United States,Sanford,Florida,33311,South
+T_511,United States,Santa Ana,California,90036,West
+T_512,United States,Santa Barbara,California,90036,West
+T_513,United States,Santa Clara,California,90036,West
+T_514,United States,Santa Fe,New Mexico,88220,West
+T_515,United States,Santa Maria,California,90036,West
+T_516,United States,Scottsdale,Arizona,85234,West
+T_517,United States,Seattle,Washington,98103,West
+T_518,United States,Sheboygan,Wisconsin,53711,Central
+T_519,United States,Shelton,Connecticut,6824,East
+T_520,United States,Sierra Vista,Arizona,85234,West
+T_521,United States,Sioux Falls,South Dakota,57103,Central
+T_522,United States,Skokie,Illinois,60540,Central
+T_523,United States,Smyrna,Georgia,31907,South
+T_524,United States,Smyrna,Tennessee,38109,South
+T_525,United States,South Bend,Indiana,47150,Central
+T_526,United States,Southaven,Mississippi,39212,South
+T_527,United States,Sparks,Nevada,89115,West
+T_528,United States,Spokane,Washington,98103,West
+T_529,United States,Springdale,Arkansas,72701,South
+T_530,United States,Springfield,Missouri,64055,Central
+T_531,United States,Springfield,Ohio,43229,East
+T_532,United States,Springfield,Oregon,97206,West
+T_533,United States,Springfield,Virginia,22153,South
+T_534,United States,Sterling Heights,Michigan,48185,Central
+T_535,United States,Stockton,California,90036,West
+T_536,United States,Suffolk,Virginia,22153,South
+T_537,United States,Summerville,South Carolina,29203,South
+T_538,United States,Sunnyvale,California,90036,West
+T_539,United States,Superior,Wisconsin,53711,Central
+T_540,United States,Tallahassee,Florida,33311,South
+T_541,United States,Tamarac,Florida,33311,South
+T_542,United States,Tampa,Florida,33311,South
+T_543,United States,Taylor,Michigan,48185,Central
+T_544,United States,Temecula,California,90036,West
+T_545,United States,Tempe,Arizona,85234,West
+T_546,United States,Texarkana,Arkansas,72701,South
+T_547,United States,Texas City,Texas,76106,Central
+T_548,United States,The Colony,Texas,76106,Central
+T_549,United States,Thomasville,North Carolina,28027,South
+T_550,United States,Thornton,Colorado,80013,West
+T_551,United States,Thousand Oaks,California,90036,West
+T_552,United States,Tigard,Oregon,97206,West
+T_553,United States,Tinley Park,Illinois,60540,Central
+T_554,United States,Toledo,Ohio,43229,East
+T_555,United States,Torrance,California,90036,West
+T_556,United States,Trenton,Michigan,48185,Central
+T_557,United States,Troy,New York,10024,East
+T_558,United States,Troy,Ohio,43229,East
+T_559,United States,Tucson,Arizona,85234,West
+T_560,United States,Tulsa,Oklahoma,73034,Central
+T_561,United States,Tuscaloosa,Alabama,35601,South
+T_562,United States,Twin Falls,Idaho,83642,West
+T_563,United States,Tyler,Texas,76106,Central
+T_564,United States,Urbandale,Iowa,50322,Central
+T_565,United States,Utica,New York,10024,East
+T_566,United States,Vacaville,California,90036,West
+T_567,United States,Vallejo,California,90036,West
+T_568,United States,Vancouver,Washington,98103,West
+T_569,United States,Vineland,New Jersey,7090,East
+T_570,United States,Virginia Beach,Virginia,22153,South
+T_571,United States,Visalia,California,90036,West
+T_572,United States,Waco,Texas,76106,Central
+T_573,United States,Warner Robins,Georgia,31907,South
+T_574,United States,Warwick,Rhode Island,2886,East
+T_575,United States,Washington,District of Columbia,20016,East
+T_576,United States,Waterbury,Connecticut,6824,East
+T_577,United States,Waterloo,Iowa,50322,Central
+T_578,United States,Watertown,New York,10024,East
+T_579,United States,Waukesha,Wisconsin,53711,Central
+T_580,United States,Wausau,Wisconsin,53711,Central
+T_581,United States,Waynesboro,Virginia,22153,South
+T_582,United States,West Allis,Wisconsin,53711,Central
+T_583,United States,West Jordan,Utah,84084,West
+T_584,United States,West Palm Beach,Florida,33311,South
+T_585,United States,Westfield,New Jersey,7090,East
+T_586,United States,Westland,Michigan,48185,Central
+T_587,United States,Westminster,California,90036,West
+T_588,United States,Wheeling,Illinois,60540,Central
+T_589,United States,Wheeling,West Virginia,26003,East
+T_590,United States,Whittier,California,90036,West
+T_591,United States,Wichita,Kansas,66062,Central
+T_592,United States,Wilmington,Delaware,19901,East
+T_593,United States,Wilmington,North Carolina,28027,South
+T_594,United States,Wilson,North Carolina,28027,South
+T_595,United States,Woodbury,Minnesota,55122,Central
+T_596,United States,Woodland,California,90036,West
+T_597,United States,Woodstock,Georgia,31907,South
+T_598,United States,Woodstock,Illinois,60540,Central
+T_599,United States,Woonsocket,Rhode Island,2886,East
+T_600,United States,Yonkers,New York,10024,East
+T_601,United States,York,Pennsylvania,19140,East
+T_602,United States,Yucaipa,California,90036,West
+T_603,United States,Yuma,Arizona,85234,West
